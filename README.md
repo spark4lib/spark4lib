@@ -4,5 +4,6 @@
 Resources in the [wiki](https://github.com/spark4lib/spark4lib/wiki):
 - [Notes from various SparkintheDark meetings](https://github.com/spark4lib/spark4lib/wiki/SparkintheDark-Informal-Calls)
 - [Information on SparkintheDark Calls](https://github.com/spark4lib/spark4lib/wiki/Information-on-SparkintheDark-Informal-Calls)
+- [Information on the SparkintheDark Reading Group](https://github.com/spark4lib/spark4lib/wiki/Reading-Group)
 - [Glossary of Terms](https://github.com/spark4lib/spark4lib/wiki/Glossary-of-Terms)
 - [Helpful Resources (make this into awesome list?)](https://github.com/spark4lib/spark4lib/wiki/Helpful-Resources)
